@@ -1,0 +1,22 @@
+{
+  "name": "nodehelloworld",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyesh/NodeHelloWorld.git"
+  },
+  "author": "div",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyesh/NodeHelloWorld/issues"
+  },
+  "homepage": "https://github.com/divyesh/NodeHelloWorld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
